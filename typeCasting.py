@@ -15,7 +15,7 @@ print(int(name))
 '''
 
 '''
-Output
+Otput
 200
 210
 '''
